@@ -1,0 +1,21 @@
+# --------------------
+# Secrets (NEVER COMMIT)
+# --------------------
+secrets.h
+
+# --------------------
+# Arduino / ESP32 build artifacts
+# --------------------
+*.bin
+*.elf
+*.hex
+*.map
+*.zip
+
+# --------------------
+# IDE / OS junk
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
